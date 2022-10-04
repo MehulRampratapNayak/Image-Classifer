@@ -1,5 +1,5 @@
 # Image Classifer
-In this Project i have built an image classification model for cat & dogs,whereby the user has to upload an image of either dog or cat and this model will predict that the uploaded image is of either dog or cat
+In this Project i have built an image classification model for cat & dogs,using Computer Vision whereby the user has to upload an image of either dog or cat and this model will predict that the uploaded image is of either dog or cat
 
 Uploading the Image of Dog-For Model to Predict
 
